@@ -3,7 +3,6 @@ This project presents a complete RNA-seq analysis pipeline implemented using the
 
 ---
 
-# RNA-Seq Analysis Pipeline Using Galaxy
 
 ## Overview
 
