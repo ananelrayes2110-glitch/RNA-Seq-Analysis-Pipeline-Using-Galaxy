@@ -125,10 +125,6 @@ The pipeline produces the following outputs:
 | DE results | limma-voom v3.58.1 | Differentially expressed genes with statistics |
 | Coverage tracks | JBrowse | Visual inspection of read alignment and SNPs |
 
-### Example Outputs
-
-**JBrowse — Multi-sample Alignment & SNPs/Coverage Tracks**
-![JBrowse Coverage](results/jbrowse.png)
 
 ---
 
